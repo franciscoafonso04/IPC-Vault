@@ -1,10 +1,10 @@
 # IPC Summary
 
-This document is a comprehensive summary of the key topics from the Interação Pessoa-Computador (IPC) course in the Informatics and Computing Engineering Bachelor's Degree at FEUP. It was created by me in collaboration with an AI assistant to provide a structured and accessible overview of the main concepts, principles, and methodologies covered throughout the course. The aim is to serve as a study guide and reference for understanding HCI's theoretical and practical aspects.
+This document is a comprehensive summary of the key topics from the Interação Pessoa-Computador (IPC) course in the Informatics and Computing Engineering Bachelor's Degree at FEUP. It was created by me in collaboration with an AI assistant to provide a structured and accessible overview of the main concepts, principles, and methodologies covered throughout the course. The aim is to serve as a study guide and reference for understanding IPC's theoretical and practical aspects.
 
 ## 1 - Introduction
 
-### Introduction to Human-Computer Interaction
+### Introduction to Human-Computer Interaction (HCI)
 
 - **Objective** - Study the interaction between humans and computers, focusing on designing technology that facilitates this interaction.
 
